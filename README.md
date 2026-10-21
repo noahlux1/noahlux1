@@ -43,8 +43,7 @@
 <br>
 
 ## 📫 Contact
-- [@wilohx](https://discord.com/users/noah.lux1) on discord
-- [website](https://wiloh.me) for my website
+- Soon
 
 ---
 🌱 *Always learning*
